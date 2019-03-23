@@ -1,0 +1,19 @@
+.col-6{
+    width:25%;
+    /* padding:0; */
+    padding:25%;
+    background-color: black
+    }
+.minus{
+    position: absolute;
+    top:5px;
+    right:5px;
+    padding:5px 12px;
+    border-radius: 0.3em;
+    background-color: azure
+}
+p{
+    padding:5px 12px;
+    border-radius: 0.3em;
+    background-color:azure
+}
